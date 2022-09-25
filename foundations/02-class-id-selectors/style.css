@@ -1,0 +1,16 @@
+.odd {
+background-color: hsl(0, 53%, 58%);
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#even {
+    color: #0000ff;
+    font-size: 36px;
+}
+.ball {
+    font-size: 24px;
+}
+#another {
+    background-color: rgb(72, 193, 72);
+    font-weight: bold;
+    font-size: 24px;
+}
